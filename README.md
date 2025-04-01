@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 🌱
+
+- I'm working on SageMath packages related to elementary vectors and reaction networks.
+- I'm very interested in board game design. For my prototypes, I use LaTeX and TikZ.
+- Sometimes, I work on computer games and make use of the Godot engine.
 
 <!--
 **MarcusAichmayr/MarcusAichmayr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
