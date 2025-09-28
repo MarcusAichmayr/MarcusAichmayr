@@ -1,5 +1,5 @@
-- I'm working on SageMath packages related to elementary vectors and reaction networks.
-- I'm very interested in board game design. For my prototypes, I use LaTeX and TikZ. 🌱
+- I'm working on SageMath packages related to _oriented matroids_ and _reaction networks_.
+- I'm very interested in _board game_ design. For my prototypes, I use LaTeX and TikZ. 🌱
 - Sometimes, I work on computer games and make use of the Godot engine.
 
 <!--
